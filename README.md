@@ -4,6 +4,9 @@ Trained a deep learning model using Fastai wrapper to classify different breeds 
 
 The model performed really well with a very small dataset. 
 
+Sample results is given below.
+[results](https://github.com/murugeshmanthiramoorthi/Image_classification_using_fastai/blob/master/results.png)
+
 Confusion matrix of the model is shown below. 
 
 ![Confusion_matrix](https://github.com/murugeshmanthiramoorthi/Image_classification_using_fastai/blob/master/confusion_matrix.png)
